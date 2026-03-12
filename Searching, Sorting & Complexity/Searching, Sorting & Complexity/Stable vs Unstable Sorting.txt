@@ -1,0 +1,33 @@
+Stable Sorting Algorithms
+
+Bubble Sort
+
+Insertion Sort
+
+Merge Sort
+
+Example
+Input
+(1,A) (1,B) (2,C)
+
+After stable sort
+
+(1,A) (1,B) (2,C)
+
+Order preserved.
+
+Unstable Sorting Algorithms
+
+Selection Sort
+
+Quick Sort
+
+Heap Sort
+
+Example
+
+(1,A) (1,B)
+
+may become
+
+(1,B) (1,A)
